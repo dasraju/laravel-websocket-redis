@@ -15,8 +15,11 @@
 ## Installing project (part 1)
 -set .env file
  -QUEUE_CONNECTION=redis
+ 
  -BROADCAST_DRIVER=pusher
+ 
 set pusher key and mail settings for your mail
+
 
 -command 
  - composer update
