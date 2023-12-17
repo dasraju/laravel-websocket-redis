@@ -43,13 +43,20 @@
 
 ## Installing redis to your system locally and run
 - -sudo apt-add-repository ppa:redislabs/redis
+- 
  -sudo apt-get update
+  
  -sudo apt-get upgrade
+ 
  -sudo apt-get install redis-server
+ 
 
  -sudo service redis-server start
+ 
  -sudo service redis-server stop
+ 
  -sudo service redis-server restart
+ 
 
  - for windows first install wsl 2
 
